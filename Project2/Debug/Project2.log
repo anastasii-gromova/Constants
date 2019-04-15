@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\acer\desktop\pmk\4 семестр\эвм\7. константы\project2\source.cpp(27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\acer\desktop\pmk\4 семестр\эвм\7. константы\project2\source.cpp(107): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\desktop\pmk\4 семестр\эвм\7. константы\project2\source.cpp(111): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\desktop\pmk\4 семестр\эвм\7. константы\project2\source.cpp(113): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\desktop\pmk\4 семестр\эвм\7. константы\project2\source.cpp(121): warning C4715: KA::start: значение возвращается не при всех путях выполнения
+  Project2.vcxproj -> C:\Users\acer\Desktop\pmk\4 семестр\ЭВМ\7. константы\Debug\Project2.exe
