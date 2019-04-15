@@ -4,6 +4,8 @@ using namespace std;
 const int n = 5;
 const int m = 6;
 
+// to-do починить
+
 int translit(char c)
 {
 	if (c >= '0' && c<='9') return 0;
